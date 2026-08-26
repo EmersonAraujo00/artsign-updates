@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: Artsign-Setup-1.0.4.exe
-    sha512: rCBedkkCc7NxIzB4OzHqlCwWMoHFTV/0oLUpHLLUkX+ErR90fsDOSn/wcSmK6r6AkFPcNAtyRhmHvLUbS1tKoA==
-    size: 78672711
-path: Artsign-Setup-1.0.4.exe
-sha512: rCBedkkCc7NxIzB4OzHqlCwWMoHFTV/0oLUpHLLUkX+ErR90fsDOSn/wcSmK6r6AkFPcNAtyRhmHvLUbS1tKoA==
-releaseDate: '2026-08-26T07:25:33.375Z'
+  - url: Artsign-Setup-1.0.5.exe
+    sha512: nhmVwzfEpsYXXsCZ2j7r4B/Borw66ctqsZfMGBCUNykPmh2XkxxazrGrCNNDttApG3kmg52koWDGlzN397kZPw==
+    size: 78674571
+path: Artsign-Setup-1.0.5.exe
+sha512: nhmVwzfEpsYXXsCZ2j7r4B/Borw66ctqsZfMGBCUNykPmh2XkxxazrGrCNNDttApG3kmg52koWDGlzN397kZPw==
+releaseDate: '2026-08-26T07:35:23.802Z'

@@ -1,8 +1,8 @@
-version: 1.7.2
+version: 1.7.3
 files:
-  - url: Artsign-Setup-1.7.2.exe
-    sha512: 0XYBajmXs9JjYYCWN6/sEYMWLM2VJ+YEYZhpuXdwqvL+jPfH0+YbjZD564uMDwagE2XL8m45sVBVPb1XxZJzCA==
-    size: 78514460
-path: Artsign-Setup-1.7.2.exe
-sha512: 0XYBajmXs9JjYYCWN6/sEYMWLM2VJ+YEYZhpuXdwqvL+jPfH0+YbjZD564uMDwagE2XL8m45sVBVPb1XxZJzCA==
-releaseDate: '2026-10-02T03:05:22.831Z'
+  - url: Artsign-Setup-1.7.3.exe
+    sha512: ovQhpDXrV4eks3kvynsxrHaR646tl/uomkkBPBk6R8egzzSR4Umo9AXwD4KPRsUoxGMzkunBvtllfqV784Rhuw==
+    size: 78515882
+path: Artsign-Setup-1.7.3.exe
+sha512: ovQhpDXrV4eks3kvynsxrHaR646tl/uomkkBPBk6R8egzzSR4Umo9AXwD4KPRsUoxGMzkunBvtllfqV784Rhuw==
+releaseDate: '2026-10-02T03:43:05.716Z'
